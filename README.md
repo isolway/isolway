@@ -1,4 +1,4 @@
-Hi, I’m @isolway, I recently started this repo where I'd like to share some python projects I'm working on (some of them are still on going though). 
+Hi, I’m @isolway, I recently started this repo collection where I'd like to share some python projects I'm working on (some of them are still on going though). 
 Feel free to clone it! Thanks
 
 <!---
